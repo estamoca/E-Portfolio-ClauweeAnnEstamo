@@ -1,4 +1,4 @@
-# E-Portfolio-ClauweeAnnEstamo# 🌐 Clauwee Ann Estamo - E-Portfolio
+# E-Portfolio-ClauweeAnnEstamo Clauwee Ann Estamo - E-Portfolio
 
 ## 👩‍💻 About Me
 I am Clauwee Ann Estamo, a first-year BS Information Technology student. I am passionate about web development and technology.
